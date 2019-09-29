@@ -1,0 +1,8 @@
+# muti sensor output for microbit
+
+
+##press a for temperture in fahrenheit
+##press b for temperture in celsius
+
+## press a+b for compass degrees
+## when shaken acceleration of the shake
